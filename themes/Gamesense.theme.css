@@ -1,14 +1,14 @@
 /**
  * @name Gamesense
  * @version 1.1
- * @description A gamesense theme for discord.
- * @source https://github.com/hellbound1337/gamesense
- * @authorId 426147523305144322
- * @author hellbound
+ * @description A gamesense theme for discord. MODDED
+ * @source https://github.com/GameSTALkER/betterdiscord/blob/main/themes/Gamesense.theme.css
+ * @authorId 592743200725270531
+ * @author nGameSTALkER
 **/
 
-@import url(https://project-limited.ru/css/source.css); /*https://raw.githack.com/hellbound1337/gamesense/master/src/source.css*/
-@import url(https://fluffingtons.github.io/revert-discord/resources/theme.css); /*https://fluffingtons.github.io/revert-discord/resources/theme.css*/
+@import url(https://raw.githubusercontent.com/GameSTALkER/betterdiscord/main/themes/css/gamesence/source.css); /*https://raw.githack.com/hellbound1337/gamesense/master/src/source.css*/
+@import url(https://raw.githubusercontent.com/GameSTALkER/betterdiscord/main/themes/css/gamesence/theme.css); /*https://fluffingtons.github.io/revert-discord/resources/theme.css*/
 
 
 :root {
