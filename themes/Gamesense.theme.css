@@ -1,0 +1,50 @@
+/**
+ * @name Gamesense
+ * @version 1.1
+ * @description A gamesense theme for discord.
+ * @source https://github.com/hellbound1337/gamesense
+ * @authorId 426147523305144322
+ * @author hellbound
+**/
+
+@import url(https://project-limited.ru/css/source.css); /*https://raw.githack.com/hellbound1337/gamesense/master/src/source.css*/
+@import url(https://fluffingtons.github.io/revert-discord/resources/theme.css); /*https://fluffingtons.github.io/revert-discord/resources/theme.css*/
+
+
+:root {
+   --title-gradient: linear-gradient(to right, #37b1da, #c948cd, #cce335, #37b1da) !important;
+   --animation-delay: 18s;
+
+   --tint: #a4b84d !important;
+   --border-color: #222222 !important;
+   --font: Whitney !important;
+   --background-container: #2d2d2d !important;
+   --background-primary: #141414 !important;
+   --background-secondary: #111111 !important;
+   --background-secondary-alt: #141414 !important;
+   --background-tertiary: #0c0c0c !important;
+   --background-accent: #2b2b2b !important;
+   --background-floating: black !important;
+   --background-modifier-hover: rgba(255, 255, 255, 0.01) !important;
+   --background-modifier-active: rgba(255, 255, 255, 0.03) !important;
+   --background-modifier-selected: rgba(255, 255, 255, 0.04) !important;
+   --background-modifier-accent: hsla(0, 0%, 100%, 0.06) !important;
+   --channeltextarea-background: var(--background-accent) !important;
+   --deprecated-card-bg: rgba(0, 0, 0, 0.2) !important;
+   --deprecated-card-editable-bg: rgba(0, 0, 0, 0.1) !important;
+   --deprecated-text-input-border-disabled: var(--background-tertiary) !important;
+   --activity-card-background: var(--background-primary) !important;
+   --channels-default: #9f9f9f !important;
+   --text-muted: #b6b6b6 !important;
+   --text-normal: #fbfbfb !important;
+   --interactive-normal: #c8c8c8 !important;
+   --interactive-hover: #727950 !important;
+   --interactive-active: #fff !important;
+   --interactive-muted: #747474 !important;
+   --header-secondary: #c9c9c9 !important;
+   --toast-background: var(--background-primary) !important;
+   --toast-header: var(--background-tertiary) !important;
+   --toast-contents: var(--background-secondary) !important;
+   --toast-box-shadow: rgba(0, 0, 0, 0.2) !important;
+   --toast-border: var(--background-tertiary) !important;
+}
